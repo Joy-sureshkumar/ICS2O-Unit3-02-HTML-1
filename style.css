@@ -1,13 +1,13 @@
 .container {
- border: 3px solid black;
- width: 50%;
- top: 0;
- left: 25%;
- position: fixed;
+  border: 3px solid black;
+  width: 50%;
+  top: 0;
+  left: 25%;
+  position: fixed;
 }
 
 .header {
-  text-align: center
+  text-align: center;
 }
 
 .albedo {
@@ -20,5 +20,4 @@
 
 .diluc {
   width: 500px;
-  tall: 2000px;
 }
