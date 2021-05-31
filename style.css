@@ -1,0 +1,24 @@
+.container {
+ border: 3px solid black;
+ width: 50%;
+ top: 0;
+ left: 25%;
+ position: fixed;
+}
+
+.header {
+text-align: center
+}
+
+.albedo {
+  width: 25%;
+} 
+
+.xiao {
+  width: 20%;
+} 
+
+.diluc {
+  width: 500px;
+  tall: 2000px'
+}
